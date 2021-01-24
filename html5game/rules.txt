@@ -1,0 +1,26 @@
+*Rules
+HATS is an online party game in which teams compete to guess the most words over the course of three rounds. Here's how it works:
+*Getting Started
+Before you start, pick one player to be the host. This player must set up port forwarding and let the others know which IP address and port to use. Click the "crown" icon to designate yourself as host. All players should join a voice call using a service such as Discord or Zoom.
+Once the host has created a room, players can connect and submit phrases to the central pool. These should be easily understood by all players, but not so simple that they will be guessed immediately. Get creative - you'll have more fun!
+*Round Structure
+In all three rounds, players take turns trying to get their teammates to guess the phrases they receive from the pool. Each team will have a limited time (60 seconds by default) to guess as many words as they can, and then the next team is up. If you are having trouble getting a word, you can draw a second word by clicking the "new" icon. Once all the words have been completed, they are returned to the pool, and the next round begins - using the same pool of words.
+*Round One: Talking Round
+In this round, you must get your teammates to guess phrases by simply describing them in voice chat. The only wrinkle is that you cannot use any words that appear in the phrase you're describing, except for those in parentheses. For example, if the phrase is "Blue Velvet (Movie)," you can say that it's a movie, but not use the words "blue" or "velvet."
+*Round Two: Drawing Round
+In this round, you have to draw your phrases, Pictionary-style. The current player cannot speak, except to deny or confirm guesses and let their team know if they're switching to a different phrase.
+*Round Three: One Word Round
+Finally, in this round, the current player may only speak a single word per phrase that they are given. If your teammates are unable to guess the phrase based on your word, the only thing you can do is repeat it. Additionally, the word you speak must not be a part of the phrase you're describing.
+After the third round is over, the scores are tallied up and a winner is declared.
+*Offline Mode
+If you want to play a game in person, all you have to do is create a room and start the game without anyone else joining. Words should be submitted by passing the device around, and team names will be used in place of player names. Most notably: the Drawing Round will be replaced by the Charades Round - in this round, you will have to act out the phrases that appear, without speaking.
+*Tips and Tricks
+If a player disconnects for whatever reason, they can rejoin a session, as long as they use the same name they were using before. 
+The game autosaves on the host's side, so if you need to cut a game short, you can pick it up again later as long as the host chooses "Load Autosave" from the main menu instead of starting a new room.
+-Keyboard shortcuts:
+[Spacebar] clears the screen in the drawing round.
+The [1] and [2] keys mark phrases as complete.
+To quit at any time, hold the [escape] key.
+[F1] toggles visual effects.
+And that's it! Try playing with different time limits, word pool sizes, or themed rounds. If you are playing with fewer than four players, consider placing each player on their own team, with all non-active players guessing.
+-For bug reports, comments, and questions: contact @protosteel on Twitter
